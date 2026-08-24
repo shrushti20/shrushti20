@@ -4,7 +4,7 @@ I'm a software developer focused on building practical AI-powered applications, 
 
 ## About Me
 
-- Master's student in International Software Systems Science in Germany
+- 🎓 M.Sc. International Software Systems Science — Otto-Friedrich-Universität Bamberg
 - Experience in software engineering, AI systems, dashboards, cloud technologies, and automation workflows
 - Building projects around LLMs, retrieval-augmented generation, NLP, and developer productivity
 - Interested in AI agents, backend systems, workflow automation, and intelligent applications
